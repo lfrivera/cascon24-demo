@@ -19,21 +19,57 @@ The edges of the movement’s bridges and the holes for the screws and jewels ar
 
 ##### Details
 
-| Feature                  | Description                                                               |
-|------------------------|-----------------------------------------------------------------------------|
-| Limited Number         | 30                                                                          |
-| Drive                  | Spring Drive Manual winding                                                 |
-| Caliber No.            | 7R14                                                                        |
-| Watch case             | 18k Yellow gold                                                             |
-| Watch Band             | Crocodile leather/18k yellow gold three-fold clasp with push button release |
-| Glass Material/Coating | Dual-curved sapphire crystal with anti-reflective coating on inner surface  |
-| Accuracy               | ±15 seconds per month (±1 second per day)                                   |
-| Size                   | 45.0mm(Lug-to-lug) 39.0mm(Diameter) 10.3mm(Thickness) 19mm(Band Width)      |
-| Other details/Features | Power reserve indicator approx. 60 hours 41 jewels See-through caseback     |
-| Water resistance       | Splash Resistant                                                            |
-| Weight                 | 90.0g                                                                       |
-| Retail price           | $40,000 USD to $54,000 USD                                                  |
-| After-market price     | $35,320 USD to $46,000 USD                                                  |
+###### Limited Number
+
+30
+
+###### Drive
+
+Spring Drive Manual winding
+
+###### Caliber No.
+
+7R14
+
+###### Watch case
+
+18k Yellow gold 
+
+###### Watch Band
+
+Crocodile leather/18k yellow gold three-fold clasp with push button release
+
+###### Glass Material/Coating
+
+Dual-curved sapphire crystal with anti-reflective coating on inner surface
+
+###### Accuracy
+
+±15 seconds per month (±1 second per day) 
+
+###### Size
+
+45.0mm(Lug-to-lug) 39.0mm(Diameter) 10.3mm(Thickness) 19mm(Band Width)
+
+###### Other details/Features
+
+Power reserve indicator approx. 60 hours 41 jewels See-through caseback
+
+###### Water resistance
+
+Splash Resistant
+
+###### Weight
+
+90.0g
+
+###### Retail price
+
+$40,000 USD to $54,000 USD
+
+###### After-market price
+
+$35,320 USD to $46,000 USD
 
 #### GBLT997
 
@@ -48,21 +84,57 @@ Visible through the see-through back are the movement bridge, rubies and delicat
 
 ##### Details
 
-| Feature                  | Description                                                                                   |
-|------------------------|-------------------------------------------------------------------------------------------------|
-| Limited Number         | 30                                                                                              |
-| Drive                  | Spring Drive Manual winding                                                                     |
-| Caliber No.            | 7R14                                                                                            |
-| Watch case             | Platinum 950                                                                                    |
-| Watch Band             | Crocodile leather/Platiinum 950 partly 18k white gold three-fold clasp with push button release |
-| Glass Material/Coating | Dual-curved sapphire crystal with anti-reflective coating on inner surface                      |
-| Accuracy               | ±15 seconds per month (±1 second per day)                                                       |
-| Size                   | 45.0mm(Lug-to-lug) 39.0mm(Diameter) 10.3mm(Thickness) 19mm(Band Width)                          |
-| Other details/Features | Power reserve indicator approx. 60 hours 41 jewels See-through caseback                         |
-| Water resistance       | Splash Resistant                                                                                |
-| Weight                 | 99.0g                                                                                           |
-| Retail price           | $40,000 USD to $54,000 USD                                                                      |
-| After-market price     | $48,589 USD to $57,199 USD                                                                      |
+###### Limited Number
+
+30
+
+###### Drive
+
+Spring Drive Manual winding
+
+###### Caliber No.
+
+7R14
+
+###### Watch case
+
+Platinum 950 
+
+###### Watch Band
+
+Crocodile leather/Platiinum 950 partly 18k white gold three-fold clasp with push button release
+
+###### Glass Material/Coating
+
+Dual-curved sapphire crystal with anti-reflective coating on inner surface
+
+###### Accuracy
+
+±15 seconds per month (±1 second per day)
+
+###### Size
+
+45.0mm(Lug-to-lug) 39.0mm(Diameter) 10.3mm(Thickness) 19mm(Band Width)
+
+###### Other details/Features
+
+Power reserve indicator approx. 60 hours 41 jewels See-through caseback 
+
+###### Water resistance
+
+Splash Resistant
+
+###### Weight
+
+99.0g
+
+###### Retail price
+
+$40,000 USD to $54,000 USD
+
+###### After-market price
+
+$48,589 USD to $57,199 USD
 
 ## Patek Phillipe
 
@@ -145,3 +217,111 @@ $41,240 USD
 ###### Aftermarket Price
 
 $122,449 USD to $163,778 USD
+
+## F.P. Journe
+
+### Élégante
+
+#### Oversized élégante in Titanium 48 mm
+
+##### Description
+
+Revolutionary electro mechanical movement with motion detector
+providing this watch with a very long autonomy of 8 to 18 years depending if in daily use or in standby mode. After 35 minutes motionless, the watch switches to standby mode in order to save energy and its hands stop turning.
+Automatic exact time reset as soon as the watch is worn again.
+
+##### Details
+
+###### Movement
+
+Calibre 1210. Electromechanical Patented two-rotor motor
+Dedicated processor, specific functions and low consumption
+
+###### Dial
+
+Inner dial: white luminescent, black luminescent, white sapphire, black sapphire, set with diamonds or set with diamonds and precious stones, depending on the watch model
+Outer dial with screwed Steel elements
+
+###### Case
+
+Titanium, Titalyt®, 18K 6N Gold or Platinum, depending on the watch model
+
+###### Retail Price
+
+$18,270 USD
+
+###### Aftermarket Price
+
+$65,000 USD
+
+## Rolex
+
+### Day-Date
+
+#### Oyster, 40 mm, Everose gold Reference 228235
+
+##### Description
+
+The Oyster Perpetual Day-Date 40 in 18 ct Everose gold with a slate ombré dial, fluted bezel and a President bracelet.
+
+The Rolex fluted bezel is a mark of distinction. Originally, the fluting of the Oyster bezel had a functional purpose: it served to screw the bezel onto the case helping to ensure the waterproofness of the watch.
+
+It was therefore identical to the fluting on the case back, which was also screwed onto the case for waterproofness, using specific Rolex tools. Over time, the fluting became an aesthetic element, a genuine Rolex signature feature. Today the fluted bezel is a mark of distinction, in gold on this Day-Date 40.
+
+##### Details
+
+###### Movement
+
+Perpetual, mechanical, self-winding. 3255, Manufacture Rolex
+
+###### Dial
+
+Slate ombré
+
+###### Case
+
+Monobloc middle case, screw-down case back and winding crown. 40 mm. 18 ct Everose gold. Scratch-resistant sapphire, Cyclops lens over the date.
+
+###### Water resistance
+
+Waterproof to 100 metres / 330 feet
+
+###### Retail Price
+
+$39,644 USD
+
+###### Aftermarket Price
+
+$54,450 USD
+
+## Jaeger-LeCoultr
+
+### Reverso
+
+#### Reverso Tribute Duoface Small Seconds
+
+##### Description
+
+In its pink gold case, the Reverso Tribute Duoface is a throwback to the first models from 1931, with their emblematic codes: chemin de fer, applied hour markers, Dauphine hands... The front of the watch boasts a deep, sunray-lacquered blue dial, the result of a complex lacquering process involving 50 production stages and 20 coats of lacquer. On the reverse, the sunrayed silver dial highlights every detail of the watch equipped with in-house calibre 854, which displays a 2nd time zone. Offered with a system of interchangeable straps – a blue calfskin strap and a dual material strap in the same color – the watch gives its owner the freedom to change styles in the blink of an eye.
+
+##### Details
+
+###### Movement
+
+Manual winding, Components: 160, Vibrations per hour: 21600, Jewels: 19, Barrel: 1, Thickness: 3.8mm, Power reserve: 42 hours
+
+###### Dial
+
+Recto Dial: Appliqued hour-markers, Blue, sunray-brushed. Verso Dial: Appliqued hour-markers, Silvered grey, sunray-brushed
+
+###### Case
+
+Pink Gold 750/1000 (18 carats). Dimensions (L x W): 47 x 28.3 mm. Thickness: 9.613mm
+
+###### Retail Price
+
+$24,413 USD
+
+###### Aftermarket Price
+
+$23,205 USD
