@@ -5,21 +5,27 @@ seed_examples:
   - question: What is a Golden Ellipse?
     answer: The Patek Philippe Golden Ellipse is a distinguished collection of luxury dress watches introduced in 1968. Its unique elliptical case design, positioned between a circle and a rectangle, is inspired by the "Golden Ratio" (approximately 1:1.618), a mathematical principle associated with aesthetic harmony. This design choice imparts a sense of balance and elegance to the timepiece.
   - question: What is the retail price of a Patek Philippe Golden Ellipse?
-    answer: The retail prices for Patek Philippe's Golden Ellipse models vary based on materials and design. For instance, the Golden Ellipse Ref. 5738R-001 in rose gold is priced at $38,060 USD, while the Ref. 5738/1R-001, featuring a rose gold case and bracelet, is listed at $60,100 USD. 
+    answer: The retail prices for Patek Philippe's Golden Ellipse models vary based on materials and design. For instance, the Golden Ellipse Ref. 5738/1R, featuring a rose gold case and bracelet, is listed at $60,100 USD. 
+  - question: What is the aftermarket price of a Patek Philippe Golden Ellipse?
+    answer: The aftermarket prices for Patek Philippe Golden Ellipse watches can vary significantly based on factors such as condition, rarity, and demand. For example, a pre-owned Golden Ellipse Ref. 5738/1R in rose gold may be priced between $83,749 USD to $100,000 USD in the secondary market.
   - question: What is the movement inside the Patek Philippe Golden Ellipse?  
     answer: The Patek Philippe Golden Ellipse watches are powered by the ultra-thin self-winding Caliber 240 movement. This movement is known for its precision, reliability, and slim profile, making it an ideal choice for dress watches like the Golden Ellipse. The movement features a 22k gold micro-rotor, which winds the watch and contributes to its slim case design.
   - question: What are the case dimensions of the Patek Philippe Golden Ellipse?
-    answer: The case dimensions of the Patek Philippe Golden Ellipse vary depending on the model. The classic Ref. 5738 model has a case size of 34.5 mm x 39.5 mm, while the Ref. 5738/50R-001 features a larger case size of 39.5 mm x 49.4 mm. These dimensions contribute to the unique elliptical shape of the watch, creating a distinctive and elegant appearance on the wrist.
-  - question: What are the strap options for the Patek Philippe Golden Ellipse?
-    answer: The Patek Philippe Golden Ellipse offers a range of strap options to suit different preferences and styles. The watches are available with leather straps in various colors, including black, brown, and blue, as well as metal bracelets in materials like rose gold. These strap options allow collectors to customize their Golden Ellipse timepiece to match their personal taste and outfit.
+    answer: The case dimensions of the Patek Philippe Golden Ellipse vary depending on the model. The classic Ref. 5738 model has a case size of 34.5 mm x 39.5 mm.
   - question: What is a Credor Eichi II GBLT997?
     answer: The Credor Eichi II GBLT997 is a limited edition luxury watch created by Seiko's high-end brand, Credor. The watch features a unique design with a platinum case and a striking blue dial. It is powered by Seiko's Spring Drive movement, which combines the accuracy of a quartz movement with the smooth sweep of a mechanical movement. The Credor GBLT997 is highly sought after by collectors for its craftsmanship, design, and exclusivity.
   - question: What is the aftermarket price of a Credor GBLT997?
-    answer: It ranges from $48,589 USD to $60,000 USD, depending on the condition and availability of the watch.
+    answer: It ranges from $40,000 USD to $54,000 USD, depending on the condition and availability of the watch.
   - question: What is a Credor Eichi II GBLT996?
     answer: The Credor GBLT996 is a luxury watch created by Seiko's high-end brand, Credor. The watch features a 18k Yellow gold case and a unique dial design. It is powered by Seiko's Spring Drive movement, which combines the accuracy of a quartz movement with the smooth sweep of a mechanical movement. The Credor GBLT996 is known for its craftsmanship, design, and exclusivity, making it a coveted timepiece among collectors.
   - question: What is the aftermarket price of a Credor GBLT996?
-    answer: $35,320 USD. 
+    answer: $35,320 USD to $46,000 USD, depending on the condition and availability of the watch.
+  - question: Is the Credor GBLT996 water resistant?
+    answer: No, it is just splash resistant.
+  - question: What is the movement inside the Credor GBLT996?
+    answer: The Credor GBLT996 is powered by the Spring Drive Manual winding.
+  - question: What is the accury of the Credor GBLT996?
+    answer: ±15 seconds per month (±1 second per day)
 document:
   repo: https://github.com/lfrivera/cascon24-demo
   patterns:
