@@ -1,32 +1,151 @@
+---
 version: 3
 domain: watch collection
 created_by: lfrivera
 seed_examples:
-  - question: What is a Golden Ellipse?
-    answer: The Patek Philippe Golden Ellipse is a distinguished collection of luxury dress watches introduced in 1968. Its unique elliptical case design, positioned between a circle and a rectangle, is inspired by the "Golden Ratio" (approximately 1:1.618), a mathematical principle associated with aesthetic harmony. This design choice imparts a sense of balance and elegance to the timepiece.
-  - question: What is the retail price of a Patek Philippe Golden Ellipse?
-    answer: The retail prices for Patek Philippe's Golden Ellipse models vary based on materials and design. For instance, the Golden Ellipse Ref. 5738/1R, featuring a rose gold case and bracelet, is listed at $60,100 USD. 
-  - question: What is the aftermarket price of a Patek Philippe Golden Ellipse?
-    answer: The aftermarket prices for Patek Philippe Golden Ellipse watches can vary significantly based on factors such as condition, rarity, and demand. For example, a pre-owned Golden Ellipse Ref. 5738/1R in rose gold may be priced between $83,749 USD to $100,000 USD in the secondary market.
-  - question: What is the movement inside the Patek Philippe Golden Ellipse?  
-    answer: The Patek Philippe Golden Ellipse watches are powered by the ultra-thin self-winding Caliber 240 movement. This movement is known for its precision, reliability, and slim profile, making it an ideal choice for dress watches like the Golden Ellipse. The movement features a 22k gold micro-rotor, which winds the watch and contributes to its slim case design.
-  - question: What are the case dimensions of the Patek Philippe Golden Ellipse?
-    answer: The case dimensions of the Patek Philippe Golden Ellipse vary depending on the model. The classic Ref. 5738 model has a case size of 34.5 mm x 39.5 mm.
-  - question: What is a Credor Eichi II GBLT997?
-    answer: The Credor Eichi II GBLT997 is a limited edition luxury watch created by Seiko's high-end brand, Credor. The watch features a unique design with a platinum case and a striking blue dial. It is powered by Seiko's Spring Drive movement, which combines the accuracy of a quartz movement with the smooth sweep of a mechanical movement. The Credor GBLT997 is highly sought after by collectors for its craftsmanship, design, and exclusivity.
-  - question: What is the aftermarket price of a Credor GBLT997?
-    answer: It ranges from $40,000 USD to $54,000 USD, depending on the condition and availability of the watch.
-  - question: What is a Credor Eichi II GBLT996?
-    answer: The Credor GBLT996 is a luxury watch created by Seiko's high-end brand, Credor. The watch features a 18k Yellow gold case and a unique dial design. It is powered by Seiko's Spring Drive movement, which combines the accuracy of a quartz movement with the smooth sweep of a mechanical movement. The Credor GBLT996 is known for its craftsmanship, design, and exclusivity, making it a coveted timepiece among collectors.
-  - question: What is the aftermarket price of a Credor GBLT996?
-    answer: $35,320 USD to $46,000 USD, depending on the condition and availability of the watch.
-  - question: Is the Credor GBLT996 water resistant?
-    answer: No, it is just splash resistant.
-  - question: What is the movement inside the Credor GBLT996?
-    answer: The Credor GBLT996 is powered by the Spring Drive Manual winding.
-  - question: What is the accury of the Credor GBLT996?
-    answer: ±15 seconds per month (±1 second per day)
+  - context: |
+      **Credor Eichi II** is a luxury watch created by Seiko's high-end
+      brand, Credor. The watch features a platinum case and a unique dial
+      design. It is powered by Seiko's Spring Drive movement, which combines the
+      accuracy of a quartz movement with the smooth sweep of a mechanical
+      movement. The Credor Eichi II is known for its craftsmanship, design, and
+      exclusivity, making it a coveted timepiece among collectors.
+    questions_and_answers:
+      - question: |
+          What is a Credor GBLT997?
+        answer: |
+          The Credor Eichi II GBLT997 is a limited edition luxury watch created by
+          Seiko's high-end brand, Credor. The watch features a unique design
+          with a platinum case and a striking blue dial. It is powered by
+          Seiko's Spring Drive movement, which combines the accuracy of a quartz
+          movement with the smooth sweep of a mechanical movement. The Credor
+          GBLT997 is highly sought after by collectors for its craftsmanship,
+          design, and exclusivity.
+      - question: |
+          What is the aftermarket price of a Credor GBLT997?
+        answer: |
+          It ranges from $40,000 USD to $54,000 USD, depending on the condition
+          and availability of the watch.
+      - question: |
+          What is a Credor Eichi II GBLT996?
+        answer: The Credor GBLT996 is a luxury watch created by Seiko's high-end brand,
+          Credor. The watch features a 18k Yellow gold case and a unique dial
+          design. It is powered by Seiko's Spring Drive movement, which combines
+          the accuracy of a quartz movement with the smooth sweep of a
+          mechanical movement. The Credor GBLT996 is known for its
+          craftsmanship, design, and exclusivity, making it a coveted timepiece
+          among collectors.
+      - question: |
+          What is the aftermarket price of a Credor GBLT996?
+        answer: |
+          $35,320 USD to $46,000 USD, depending on the condition and availability
+          of the watch.
+      - question: |
+          Is the Credor GBLT996 water resistant?
+        answer: |
+          No, it is just splash resistant.
+      - question: |
+          What is the movement inside the Credor GBLT996?
+        answer: The Credor GBLT996 is powered by the Spring Drive Manual winding.
+      - question: |
+          What is the accury of the Credor GBLT996?
+        answer: |
+          ±15 seconds per month (±1 second per day)
+  - context: |
+      **Patek Philippe Golden Ellipse** is a distinguished collection of
+      luxury dress watches introduced in 1968. Its unique elliptical case
+      design, positioned between a circle and a rectangle, is inspired by the
+      "Golden Ratio" (approximately 1:1.618), a mathematical principle
+      associated with aesthetic harmony. This design choice imparts a sense of
+      balance and elegance to the timepiece.
+    questions_and_answers:
+      - question: |
+          What is a Golden Ellipse?
+        answer: |
+          The Patek Philippe Golden Ellipse is a distinguished collection of
+          luxury dress watches introduced in 1968. Its unique elliptical case
+          design, positioned between a circle and a rectangle, is inspired by
+          the "Golden Ratio" (approximately 1:1.618), a mathematical principle
+          associated with aesthetic harmony. This design choice imparts a sense
+          of balance and elegance to the timepiece.
+      - question: |
+          What is the retail price of a Patek Philippe Golden Ellipse?
+        answer: |
+          The retail prices for Patek Philippe's Golden Ellipse models vary based
+          on materials and design. For instance, the Golden Ellipse Ref.
+          5738/1R, featuring a rose gold case and bracelet, is listed at $60,100 USD.
+      - question: |
+          What is the aftermarket price of a Patek Philippe Golden Ellipse?
+        answer: The aftermarket prices for Patek Philippe Golden Ellipse watches can
+          vary significantly based on factors such as condition, rarity, and
+          demand. For example, a pre-owned Golden Ellipse Ref. 5738/1R in rose
+          gold may be priced between $83,749 USD to $100,000 USD in the
+          secondary market.
+      - question: |
+          What is the movement inside the Patek Philippe Golden Ellipse?
+        answer: |
+          The Patek Philippe Golden Ellipse watches are powered by the ultra-thin
+          self-winding Caliber 240 movement. This movement is known for its
+          precision, reliability, and slim profile, making it an ideal choice
+          for dress watches like the Golden Ellipse. The movement features a 22k
+          gold micro-rotor, which winds the watch and contributes to its slim
+          case design.
+      - question: |
+          What are the case dimensions of the Patek Philippe Golden Ellipse?
+        answer: |
+          The case dimensions of the Patek Philippe Golden Ellipse vary depending
+          on the model. The classic Ref. 5738 model has a case size of 34.5 mm x
+          39.5 mm.
+  - context: |
+      **F.P. Journe Élégante** is a distinctive timepiece that combines traditional watchmaking craftsmanship with innovative quartz technology. Introduced in 2014, it was initially designed as a women's watch but has since expanded to include larger models suitable for men.
+    questions_and_answers:
+      - question: |
+          What is the retail price of an F.P. Journe Élégante Oversized Titanium 48 mm?
+        answer: |
+          The retail prices of an F.P. Journe Élégante Oversized Titanium 48 mm is $18,270 USD.
+      - question: |
+          What is the aftermarket price of an F.P. Journe Élégante Oversized Titanium 48 mm?
+        answer: The aftermarket price of an F.P. Journe Élégante Oversized Titanium 48 mm is around $65,000 USD.
+      - question: |
+          What is the movement inside an F.P. Journe Élégante Oversized Titanium 48 mm?
+        answer: |
+          Calibre 1210. Electromechanical Patented two-rotor motor Dedicated processor, specific functions and low consumption.
+  - context: |
+      **The Rolex Day-Date** also known as the "President" watch, is one of Rolex's most iconic models, launched in 1956. It's notable for being the first wristwatch to display both the date and the day of the week spelled out in full on the dial. This groundbreaking feature set a new standard in horology, establishing the Day-Date as a symbol of prestige, often associated with influential and high-profile figures.
+    questions_and_answers:
+      - question: |
+          What is the retail price of a Rolex Day-Date 40 mm Everose gold?
+        answer: |
+          The retail price of a Rolex Day-Date 40 mm Everose gold is $39,644 USD.
+      - question: |
+          What is the aftermarket price of a Rolex Day-Date 40 mm Everose gold?
+        answer: The aftermarket price of a Rolex Day-Date 40 mm Everose gold is $54,450 USD.
+      - question: |
+          What is the movement inside a Rolex Day-Date 40 mm Everose gold?
+        answer: |
+          The movement of a Rolex Day-Date 40 mm Everose gold is perpetual, mechanical, self-winding. 3255, Manufacture Rolex
+      - question: |
+          Is the Rolex Day-Date 40 mm Everose gold water resistant?
+        answer: |
+          Yes, the Rolex Day-Date 40 mm Everose gold is waterproof to 100 meters / 330 feet.
+  - context: |
+      **The Jaeger-LeCoultre (JLC) Reverso Duoface** is a distinguished model within the Reverso collection, celebrated for its unique dual-dial design that caters to travelers and watch enthusiasts alike. Introduced in 1931, the original Reverso was engineered to withstand the rigors of polo matches, featuring a reversible case that protected the watch face during play. The Duoface variant, introduced later, expanded on this concept by incorporating two distinct dials driven by a single movement, each displaying a different time zone. This innovation provided a practical solution for travelers needing to keep track of time in multiple regions.
+    questions_and_answers:
+      - question: |
+          What is the retail price of a Reverso Tribute Duoface Small Secods?
+        answer: |
+          The retail price of a Reverso Tribute Duoface Small Secods is $24,413 USD.
+      - question: |
+          What is the aftermarket price of a Reverso Tribute Duoface Small Secods?
+        answer: The aftermarket price of a everso Tribute Duoface Small Secods is $23,205 USD.
+      - question: |
+          What is the movement inside a Reverso Tribute Duoface Small Secods?
+        answer: |
+          The movement of a Reverso Tribute Duoface Small Secods is Manual winding, Components: 160, Vibrations per hour: 21600, Jewels: 19, Barrel: 1, Thickness: 3.8mm, Power reserve: 42 hours.
+document_outline: |
+  Information about luxury watches.
 document:
   repo: https://github.com/lfrivera/cascon24-demo
+  commit: 0a1f2672b9b90582e6115333e3ed62fd628f1c0fae6a3c6697a092b29e0c7cecbcfd4cf41eac4d62
   patterns:
     - data.md
