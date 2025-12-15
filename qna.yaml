@@ -146,6 +146,6 @@ document_outline: |
   Information about luxury watches.
 document:
   repo: https://github.com/lfrivera/cascon24-demo
-  commit: 0a1f2672b9b90582e6115333e3ed62fd628f1c0fae6a3c6697a092b29e0c7cecbcfd4cf41eac4d62
+  commit: a3e4e89a02b119bdfaebb6ab912d571d8af97765
   patterns:
     - data.md
